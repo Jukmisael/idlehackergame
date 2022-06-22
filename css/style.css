@@ -60,6 +60,11 @@ html {
     height: 75px;
   }
   
+  .extra-hands{
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/e/e4/Keyboard-icon_Wikipedians.svg");
+
+  }
+
   .buyable__amount {
     align-self: center;
     font-size: 24px;
