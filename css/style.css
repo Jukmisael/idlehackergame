@@ -40,7 +40,7 @@ html {
   }
   
   .clicker__button {
-    background-image: url("https://upload.wikimedia.org/wikipedia/commons/e/e4/Keyboard-icon_Wikipedians.svg");
+    background-image: url(src/img/Keyboard-icon.svg);
     background-size: cover;
     height: 150px;
     width: 250px;
